@@ -125,3 +125,6 @@ describe('Happy path Sign up', () => {
 
   // End Test Suite Sign up Happy path
 })
+
+// Test Suite Signup Negative scenarios 
+
