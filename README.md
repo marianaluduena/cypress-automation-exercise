@@ -2,7 +2,9 @@
 
 ## Project overview
 
-This is a QA automation project with Cypress to demonstratemy skills as **QA Engineer.**
+- This is a QA automation project with **Cypress** to demonstrate my skills as **QA Engineer.** The application this project is based on is **Automation-Excercise**, a sandbox that emaulates an **E-Commerce.**
+
+- Link to the application: https://www.automationexercise.com/
 
 This repository contains:
 
@@ -11,6 +13,14 @@ This repository contains:
 - Use cases with **positive, negative and edge scenarios.**
 - Exploratory testing findings.
 - Detailed bug reports with evidence.
+
+## How did I approach this project?
+
+
+
+---------
+
+## Project Structure
 
 ```
 CYPRESS-AUTOMATION.EXERCISE/
