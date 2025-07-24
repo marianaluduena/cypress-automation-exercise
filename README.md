@@ -16,6 +16,45 @@ This repository contains:
 
 ## How did I approach this project?
 
+### Scope and out of scope
+
+Due the fact this sandbox emulates an E-Commerce, I focussed in the main features:
+
+- **Signup**
+
+- **Login / Logout**
+
+- **Cart** and
+
+- **Checkout**
+
+This project focuses in automation testing with Cypress, so **the API test cases are out of scope.**
+
+### Approach
+
+While there is no docummentation, I started doing **exploratory testing sessions** to undestand the workflows before writing use cases, and **to find potencial bugs.**
+
+### Tools
+
+- **Cypress**
+
+- **JavaScript:** all the automated test cases are written with Javascript.
+
+- **Git**
+
+- **ChatGPT**
+
+- **Loom:** to document visual proof / evidence. The screenshots links are available to be accessed.
+
+
+### Environment
+
+- **OS:** Windows 11
+
+-  **Browser:** Chrome Version 137.0.7151.120
+
+
+
 
 
 ---------
