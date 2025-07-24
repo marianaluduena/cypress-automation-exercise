@@ -7,3 +7,9 @@
 ### Shopping cart
 
 - The item's quantity can not be changed once added to the cart.
+
+
+
+### UX issues
+
+- The application's date is not udpated (2021)
