@@ -14,6 +14,8 @@ This repository contains:
 - Exploratory testing findings.
 - Detailed bug reports with evidence.
 
+---------
+
 ## How did I approach this project?
 
 ### Scope and out of scope
@@ -32,7 +34,19 @@ This project focuses in automation testing with Cypress, so **the API test cases
 
 ### Approach
 
-While there is no docummentation, I started doing **exploratory testing sessions** to undestand the workflows before writing use cases, and **to find potencial bugs.**
+- I divided this project in 3 main tasks: 
+
+1. **Explore the application.**
+
+2. **Write positive, negative and edge use cases.**
+
+3. **Automate the use cases.**
+
+But I did this iteratively rather than strictly sequentially
+
+- While there is no docummentation, I started doing **exploratory testing sessions** to undestand the workflows before writing use cases, and **to find potencial bugs.**
+
+- 
 
 ### Tools
 
@@ -42,7 +56,7 @@ While there is no docummentation, I started doing **exploratory testing sessions
 
 - **Git**
 
-- **ChatGPT**
+- **ChatGPT:** to create additional unexpected test scenarios, and as a guide to create specific test cases when I don't know how to do it.
 
 - **Loom:** to document visual proof / evidence. The screenshots links are available to be accessed.
 
@@ -52,10 +66,6 @@ While there is no docummentation, I started doing **exploratory testing sessions
 - **OS:** Windows 11
 
 -  **Browser:** Chrome Version 137.0.7151.120
-
-
-
-
 
 ---------
 
