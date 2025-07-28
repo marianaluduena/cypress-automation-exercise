@@ -6,6 +6,14 @@
 
 - Link to the application: https://www.automationexercise.com/
   
+- I divided this project in 3 main tasks: 
+
+1. **Explore the application and report any bug / issue finded.**
+
+2. **Write positive, negative and edge use cases.**
+
+3. **Automate the use cases.**
+  
 - ⚠️Please note that **this project is currently in progress.**
 
 This repository contains:
@@ -16,19 +24,11 @@ This repository contains:
 - Exploratory testing findings.
 - Detailed bug reports with evidence.
 
-I divided this project in 3 main tasks: 
-
-1. **Explore the application and report any bug / issue finded.**
-
-2. **Write positive, negative and edge use cases.**
-
-3. **Automate the use cases.**
-
 ---------
 
 ## How did I approach this project?
 
-- **I approached this project by doing this three tasks iteratively, rather than strictly sequentially. This helped me:**
+**I approached this project by doing this three tasks iteratively, rather than strictly sequentially. This helped me:**
 
 1. Understand the application’s behavior more deeply early on.
 
@@ -126,7 +126,12 @@ cypress/
 
 ### Installation
 
-1. Clone this repository.
+1. Clone this repository and open it in your code editor:
+
+```
+git clone https://github.com/marianaluduena/cypress-automation-exercise
+
+```
 
 2. Install dependencies:
    
@@ -135,16 +140,27 @@ npm install
 
 ```
 
+3. Install Cypress:
+
+ ```
+npm install cypress --save-dev
+
+  ```
+
 ### Run the Tests
 
 Option 1: Open Cypress Test Runner (GUI)
 
-bash
+```
 npx cypress open
+
+```
 
 This will launch the Cypress UI where you can select and run individual test files interactively.
 
 Option 2: Run Tests in Headless Mode
 
-bash
+```
 npx cypress run
+
+```
