@@ -1,6 +1,6 @@
 # Test Scenarios
  
-## SignIn Section
+## SignUp Section
  
 ### Tigger:
  
@@ -75,3 +75,4 @@
 
 - An error message indicates the email already exists.
 - The user remains on the sign in screen.
+
